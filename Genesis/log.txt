@@ -1,0 +1,8 @@
+[01:19:48:PM]: Genesis v1.0 started on Mac OS X
+[01:19:51:PM]: You: Hello
+[01:19:51:PM]: Genesis: Hello.
+[01:19:56:PM]: You: How are you
+[01:19:56:PM]: Genesis: 
+[01:19:58:PM]: You: Bye
+[01:19:58:PM]: Genesis: 
+[01:19:59:PM]: Genesis v1.0 shut down successfully!

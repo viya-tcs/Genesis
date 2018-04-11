@@ -1,2 +1,10 @@
 Greeting� Hello
 Farewell� Bye
+Farewell� Hi
+Farewell� How are you
+Greeting� Hi
+Farewell� Byee
+Greeting� Bye
+Farewell� Exit
+Greeting� Exit
+Farewell� Laugh

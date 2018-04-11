@@ -22,7 +22,7 @@ public static void main(String[] args) {
 }
 
 private final FileManager fm;
-protected String last = null;
+protected String last = null; 
 
 public Genesis() throws IOException {
     log("Initializing " + toString() + "...");

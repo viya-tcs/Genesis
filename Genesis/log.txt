@@ -6,3 +6,163 @@
 [01:19:58:PM]: You: Bye
 [01:19:58:PM]: Genesis: 
 [01:19:59:PM]: Genesis v1.0 shut down successfully!
+[01:25:48:PM]: Genesis v1.0 started on Mac OS X
+[01:26:04:PM]: You: Hello
+[01:26:04:PM]: Genesis: Hello.
+[01:26:07:PM]: You: Hi
+[01:26:07:PM]: Genesis: 
+[01:26:09:PM]: Genesis v1.0 shut down successfully!
+[01:26:12:PM]: Genesis v1.0 started on Mac OS X
+[01:26:18:PM]: You: Hello
+[01:26:18:PM]: Genesis: Hello.
+[01:26:20:PM]: You: Bye
+[01:26:20:PM]: Genesis: 
+[01:26:22:PM]: Genesis v1.0 shut down successfully!
+[01:26:26:PM]: Genesis v1.0 started on Mac OS X
+[01:26:28:PM]: You: Hello
+[01:26:28:PM]: Genesis: Hello.
+[01:26:31:PM]: You: Hi
+[01:26:31:PM]: Genesis: 
+[01:26:33:PM]: Genesis v1.0 shut down successfully!
+[01:26:36:PM]: Genesis v1.0 started on Mac OS X
+[01:26:41:PM]: You: Hello
+[01:26:41:PM]: Genesis: Hello.
+[01:26:43:PM]: You: Bye
+[01:26:43:PM]: Genesis: 
+[01:26:45:PM]: Genesis v1.0 shut down successfully!
+[03:48:43:PM]: Genesis v1.0 started on Mac OS X
+[03:48:53:PM]: You: Hello
+[03:48:53:PM]: Genesis: Hello.
+[03:48:58:PM]: You: How are you
+[03:48:58:PM]: Genesis: 
+[03:48:59:PM]: Genesis v1.0 shut down successfully!
+[03:49:04:PM]: Genesis v1.0 started on Mac OS X
+[03:49:08:PM]: You: Hi
+[03:49:08:PM]: Genesis: Hi.
+[03:49:12:PM]: You: Byee
+[03:49:12:PM]: Genesis: 
+[03:49:16:PM]: Genesis v1.0 shut down successfully!
+[03:49:19:PM]: Genesis v1.0 started on Mac OS X
+[03:49:23:PM]: You: Hello
+[03:49:23:PM]: Genesis: Hello.
+[03:49:27:PM]: You: Bye
+[03:49:27:PM]: Genesis: 
+[03:49:30:PM]: Genesis v1.0 shut down successfully!
+[03:49:34:PM]: Genesis v1.0 started on Mac OS X
+[03:49:38:PM]: You: Bye
+[03:49:38:PM]: Genesis: Hello.
+[03:49:43:PM]: Genesis v1.0 started on Mac OS X
+[03:49:48:PM]: You: Hello
+[03:49:48:PM]: Genesis: Hi.
+[03:49:50:PM]: You: Bye
+[03:49:50:PM]: Genesis: 
+[03:49:52:PM]: You: Exit
+[03:49:52:PM]: Genesis: 
+[03:49:55:PM]: Genesis v1.0 shut down successfully!
+[03:50:00:PM]: Genesis v1.0 started on Mac OS X
+[03:50:03:PM]: You: Exit
+[03:50:03:PM]: Genesis: Bye.
+[03:50:06:PM]: You: Hi
+[03:50:06:PM]: Genesis: 
+[03:50:08:PM]: You: Hello
+[03:50:08:PM]: Genesis: 
+[03:50:13:PM]: You: Hello
+[03:50:13:PM]: Genesis: 
+[03:50:16:PM]: You: How are you
+[03:50:16:PM]: Genesis: 
+[03:50:18:PM]: Genesis v1.0 shut down successfully!
+[03:50:23:PM]: Genesis v1.0 started on Mac OS X
+[03:50:25:PM]: You: Hello
+[03:50:25:PM]: Genesis: Hello.
+[03:50:28:PM]: You: Bye
+[03:50:28:PM]: Genesis: 
+[03:50:30:PM]: You: Exit
+[03:50:30:PM]: Genesis: 
+[03:50:32:PM]: You: Exit
+[03:50:32:PM]: Genesis: 
+[03:50:34:PM]: You: Exit
+[03:50:34:PM]: Genesis: 
+[03:50:35:PM]: You: Exit
+[03:50:35:PM]: Genesis: 
+[03:50:36:PM]: You: Exit
+[03:50:36:PM]: Genesis: 
+[03:50:39:PM]: You: Exit
+[03:50:39:PM]: Genesis: 
+[03:50:46:PM]: Genesis v1.0 started on Mac OS X
+[03:50:49:PM]: You: Hi
+[03:50:49:PM]: Genesis: Hello.
+[03:50:51:PM]: You: Bye
+[03:50:51:PM]: Genesis: 
+[03:50:52:PM]: You: Exit
+[03:50:52:PM]: Genesis: 
+[03:51:03:PM]: Genesis v1.0 started on Mac OS X
+[03:51:07:PM]: You: Hello
+[03:51:07:PM]: Genesis: Bye!
+[03:51:10:PM]: You: Laugh
+[03:51:10:PM]: Genesis: 
+[03:51:12:PM]: Genesis v1.0 shut down successfully!
+[03:51:15:PM]: Genesis v1.0 started on Mac OS X
+[03:51:19:PM]: You: Hello
+[03:51:19:PM]: Genesis: Bye!
+[03:51:24:PM]: Genesis v1.0 started on Mac OS X
+[03:51:27:PM]: You: Hi
+[03:51:27:PM]: Genesis: Hello.
+[03:51:32:PM]: You: Bye
+[03:51:32:PM]: Genesis: 
+[03:51:34:PM]: You: Exit
+[03:51:34:PM]: Genesis: 
+[03:51:35:PM]: You: Exit
+[03:51:35:PM]: Genesis: 
+[03:51:45:PM]: You: Exit
+[03:51:45:PM]: Genesis: 
+[03:51:50:PM]: Genesis v1.0 started on Mac OS X
+[03:51:53:PM]: You: Hello
+[03:51:53:PM]: Genesis: Hello.
+[03:51:55:PM]: You: Bye
+[03:51:55:PM]: Genesis: 
+[03:51:56:PM]: You: Exit
+[03:51:56:PM]: Genesis: 
+[03:51:58:PM]: You: Exit
+[03:51:58:PM]: Genesis: 
+[03:52:44:PM]: Genesis v1.0 started on Mac OS X
+[03:52:51:PM]: You: Hello
+[03:52:51:PM]: Genesis: Bye.
+[03:52:53:PM]: You: Bye
+[03:52:53:PM]: Genesis: 
+[03:52:56:PM]: You: Exit
+[03:52:56:PM]: Genesis: 
+[03:52:58:PM]: You: Exit
+[03:52:58:PM]: Genesis: 
+[03:52:59:PM]: You: Exit
+[03:52:59:PM]: Genesis: 
+[03:53:01:PM]: You: Exit
+[03:53:01:PM]: Genesis: 
+[03:53:02:PM]: You: Exit
+[03:53:02:PM]: Genesis: 
+[03:53:10:PM]: Genesis v1.0 started on Mac OS X
+[03:53:13:PM]: You: Hi
+[03:53:13:PM]: Genesis: Exit.
+[03:53:15:PM]: You: Exit
+[03:53:15:PM]: Genesis: 
+[03:53:24:PM]: Genesis v1.0 started on Mac OS X
+[03:53:27:PM]: You: Hi
+[03:53:27:PM]: Genesis: Exit.
+[03:56:58:PM]: Genesis v1.0 started on Mac OS X
+[03:57:04:PM]: You: Hello
+[03:57:04:PM]: Genesis: Hello!
+[03:57:09:PM]: You: Bye
+[03:57:09:PM]: Genesis: 
+[03:57:12:PM]: You: Exit
+[03:57:12:PM]: Genesis: 
+[03:57:14:PM]: You: Exit
+[03:57:14:PM]: Genesis: 
+[03:57:16:PM]: You: Exit
+[03:57:16:PM]: Genesis: 
+[03:57:17:PM]: You: Exit
+[03:57:17:PM]: Genesis: 
+[03:57:38:PM]: You: Cease 
+[03:57:38:PM]: Genesis: 
+[03:57:42:PM]: You: Stop runnin
+[03:57:42:PM]: Genesis: 
+[03:57:45:PM]: You: Shut down
+[03:57:45:PM]: Genesis: 
